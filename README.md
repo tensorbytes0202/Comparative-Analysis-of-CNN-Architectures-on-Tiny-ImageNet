@@ -18,13 +18,13 @@ Evaluation is performed using multiple metrics such as Accuracy, Precision, Reca
 
 ## 📂 Project Structure
 
-![Project Structure](images/project_structure.png)
+![Project Structure](assets/project_structure.png)
 
 ---
 
 ## 📊 Model Accuracy Comparison
 
-![Accuracy Comparison](images/accuracy.png)
+![Accuracy Comparison](assets/accuracy.png)
 
 - CNN shows lower performance due to limited feature extraction capacity.
 - ResNet performs best due to residual connections.
@@ -34,7 +34,7 @@ Evaluation is performed using multiple metrics such as Accuracy, Precision, Reca
 
 ## 🔍 Confusion Matrix (ResNet)
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](assets/confusion_matrix.png)
 
 - Diagonal concentration shows correct predictions.
 - Sparse distribution indicates class confusion due to dataset complexity.
@@ -43,7 +43,7 @@ Evaluation is performed using multiple metrics such as Accuracy, Precision, Reca
 
 ## 📈 Multi-Metric Comparison
 
-![Multi Metrics](images/multi_metrics.png)
+![Multi Metrics](assets/multi_metrics.png)
 
 - ResNet dominates across Accuracy, Precision, and Recall.
 - MobileNet performs competitively with lower computational cost.
@@ -53,7 +53,7 @@ Evaluation is performed using multiple metrics such as Accuracy, Precision, Reca
 
 ## 📊 Performance Metrics (Precision, Recall, F1)
 
-![Metrics](images/metrics.png)
+![Metrics](assets/metrics.png)
 
 - Precision is relatively higher than recall.
 - Low recall indicates difficulty in capturing all true classes.
@@ -63,7 +63,7 @@ Evaluation is performed using multiple metrics such as Accuracy, Precision, Reca
 
 ## 🖼️ Sample Predictions
 
-![Predictions](images/predictions.png)
+![Predictions](assets/predictions.png)
 
 - Visual examples of model predictions on validation data.
 - Shows both correct and incorrect classifications.
